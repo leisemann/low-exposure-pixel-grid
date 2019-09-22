@@ -1,7 +1,7 @@
 # Low Exposure Pixel Grid
 
-Accompanying code for the paper: "Expanding dynamic range in a single-shot image through a
-sparse grid of low exposure pixels"
+Accompanying code for the paper:\
+"Expanding dynamic range in a single-shot image through a sparse grid of low exposure pixels"
 
 Pretrained models and weights can be downloaded from:\
 https://drive.google.com/drive/folders/1_ELo4ilz5lelT7HIP33hXD8uSENYdCvH
